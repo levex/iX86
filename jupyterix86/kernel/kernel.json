@@ -1,0 +1,3 @@
+{"argv":["python","-m", "jupyterix86", "-f", "{connection_file}"],
+ "display_name":"iX86"
+}
